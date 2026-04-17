@@ -45,8 +45,10 @@ Portfolio: https://my-links-lemon.vercel.app/
 
 - **AI 活用** — ChatGPT / Claude / Gemini など主要 AI の実務運用
 - **AI 自動化** — 業務を自動化する AI エージェントの設計・開発
-- **アプリ開発** — iOS / Android / Web
-- **クラウド** — AWS / Google Cloud / Azure
+- **モバイル** — Swift (iOS) / Kotlin (Android) / Flutter
+- **Web フロントエンド** — Vue.js / React / Next.js / TypeScript
+- **バックエンド** — Java / Kotlin / Spring Boot / Node.js
+- **インフラ** — Docker / AWS / Google Cloud / Azure
 
 ## Links
 

@@ -45,8 +45,10 @@ Portfolio: https://my-links-lemon.vercel.app/
 
 - **Working with AI** — Hands-on use of major AIs (ChatGPT / Claude / Gemini)
 - **AI Automation** — Designing and building AI agents that automate workflows
-- **App Development** — iOS / Android / Web
-- **Cloud** — AWS / Google Cloud / Azure
+- **Mobile** — Swift (iOS) / Kotlin (Android) / Flutter
+- **Web Frontend** — Vue.js / React / Next.js / TypeScript
+- **Backend** — Java / Kotlin / Spring Boot / Node.js
+- **Infrastructure** — Docker / AWS / Google Cloud / Azure
 
 ## Links
 
