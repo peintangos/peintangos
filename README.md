@@ -1,5 +1,7 @@
 # peintangos (松尾淳平 / Jumpei Matsuo)
 
+[English README](./README.en.md)
+
 慶應義塾大学経済学部を卒業後、シンプレクス株式会社で証券・FX 取引システムの開発に 6 年間従事。チームリードとして大規模プロジェクトを推進した経験を活かし、2026 年 4 月よりフリーランスとして独立。現在は AI を活用した業務改善・プロダクト開発を専門としています。
 
 Portfolio: https://my-links-lemon.vercel.app/
