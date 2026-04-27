@@ -2,13 +2,13 @@
 
 [English README](./README.en.md)
 
-慶應義塾大学経済学部を卒業後、シンプレクス株式会社で証券・FX 取引システムの開発に 6 年間従事。チームリードとして大規模プロジェクトを推進した経験を活かし、2026 年 4 月よりフリーランスとして独立。現在は AI を活用した業務改善・プロダクト開発を専門としています。
+慶應義塾大学経済学部を卒業後、シンプレクス株式会社で証券・FX 取引システムの開発に 6 年間従事。チームリードとして大規模プロジェクトを推進した経験を活かし、2026 年 4 月より独立。現在は AI を活用した業務改善・プロダクト開発を専門としています。
 
 Portfolio: https://my-links-lemon.vercel.app/
 
 ## Career
 
-- **2026.04 – 現在** — フリーランスエンジニア
+- **2026.04 – 現在** — 独立
   AI を活用した業務改善・プロダクト開発
 - **2020.04 – 2026.03** — シンプレクス株式会社
   証券・FX 取引システムの開発。チームリードとして大規模プロジェクトを推進
@@ -20,7 +20,6 @@ Portfolio: https://my-links-lemon.vercel.app/
 | [AI UNIVERSE](https://ai-universe-map.com) | AI / LLM キーワードの 3D 意味空間マップ |
 | [choimimi](https://choimimi.vercel.app/) | 海外 AI メディアの最新記事を翻訳して届ける |
 | [ざっくり税額シミュレーター](https://antoher-sales.vercel.app/) | 対話形式で確定申告時の税金を計算 |
-| [Wish Board](https://problem-collecting.vercel.app/) | 「あったらいいな」を集める掲示板 |
 | [Generative UI Patterns Demo](https://generative-ui-sample-by-vercel.vercel.app) | Generative UI の 3 実装パターンを比較 |
 | [Showcase](https://peitangos-imagess.vercel.app/) | 作品を集めたショーケースサイト |
 

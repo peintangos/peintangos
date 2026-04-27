@@ -8,7 +8,7 @@ Portfolio: https://my-links-lemon.vercel.app/
 
 ## Career
 
-- **2026.04 – Present** — Freelance Engineer
+- **2026.04 – Present** — Independent Engineer
   AI-powered business automation and product development
 - **2020.04 – 2026.03** — Simplex Inc.
   Built trading systems for securities and FX. Led large-scale projects as a team lead
@@ -20,7 +20,6 @@ Portfolio: https://my-links-lemon.vercel.app/
 | [AI UNIVERSE](https://ai-universe-map.com) | 3D semantic-space map of AI / LLM keywords |
 | [choimimi](https://choimimi.vercel.app/) | Delivers translated articles from overseas AI media |
 | [Tax Estimator](https://antoher-sales.vercel.app/) | Conversational tool for estimating income tax |
-| [Wish Board](https://problem-collecting.vercel.app/) | A board for collecting "wouldn't it be nice if…" ideas |
 | [Generative UI Patterns Demo](https://generative-ui-sample-by-vercel.vercel.app) | Compares three implementation patterns for Generative UI |
 | [Showcase](https://peitangos-imagess.vercel.app/) | A showcase site of my works |
 
