@@ -19,6 +19,7 @@ Portfolio: https://my-links-lemon.vercel.app/
 | --- | --- |
 | [AI UNIVERSE](https://ai-universe-map.com) | AI / LLM キーワードの 3D 意味空間マップ |
 | [choimimi](https://choimimi.vercel.app/) | 海外 AI メディアの最新記事を翻訳して届ける |
+| [匿名インタビュー練習](https://web-mensetsu.vercel.app/practice) | 匿名で面接練習を行い、その場で AI 評価を確認 |
 | [ざっくり税額シミュレーター](https://antoher-sales.vercel.app/) | 対話形式で確定申告時の税金を計算 |
 | [Generative UI Patterns Demo](https://generative-ui-sample-by-vercel.vercel.app) | Generative UI の 3 実装パターンを比較 |
 | [Showcase](https://peitangos-imagess.vercel.app/) | 作品を集めたショーケースサイト |

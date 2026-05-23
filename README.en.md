@@ -19,6 +19,7 @@ Portfolio: https://my-links-lemon.vercel.app/
 | --- | --- |
 | [AI UNIVERSE](https://ai-universe-map.com) | 3D semantic-space map of AI / LLM keywords |
 | [choimimi](https://choimimi.vercel.app/) | Delivers translated articles from overseas AI media |
+| [Anonymous Interview Practice](https://web-mensetsu.vercel.app/practice) | Anonymous interview practice with instant AI feedback |
 | [Tax Estimator](https://antoher-sales.vercel.app/) | Conversational tool for estimating income tax |
 | [Generative UI Patterns Demo](https://generative-ui-sample-by-vercel.vercel.app) | Compares three implementation patterns for Generative UI |
 | [Showcase](https://peitangos-imagess.vercel.app/) | A showcase site of my works |
